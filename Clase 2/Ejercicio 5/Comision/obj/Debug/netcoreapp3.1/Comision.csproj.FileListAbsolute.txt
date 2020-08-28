@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\Comision\Comision\bin\Debug\netcoreapp3.1\Comision.exe
+C:\Users\junan\source\repos\Comision\Comision\bin\Debug\netcoreapp3.1\Comision.deps.json
+C:\Users\junan\source\repos\Comision\Comision\bin\Debug\netcoreapp3.1\Comision.runtimeconfig.json
+C:\Users\junan\source\repos\Comision\Comision\bin\Debug\netcoreapp3.1\Comision.runtimeconfig.dev.json
+C:\Users\junan\source\repos\Comision\Comision\bin\Debug\netcoreapp3.1\Comision.dll
+C:\Users\junan\source\repos\Comision\Comision\bin\Debug\netcoreapp3.1\Comision.pdb
+C:\Users\junan\source\repos\Comision\Comision\obj\Debug\netcoreapp3.1\Comision.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\Comision\Comision\obj\Debug\netcoreapp3.1\Comision.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\Comision\Comision\obj\Debug\netcoreapp3.1\Comision.AssemblyInfo.cs
+C:\Users\junan\source\repos\Comision\Comision\obj\Debug\netcoreapp3.1\Comision.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\Comision\Comision\obj\Debug\netcoreapp3.1\Comision.dll
+C:\Users\junan\source\repos\Comision\Comision\obj\Debug\netcoreapp3.1\Comision.pdb
+C:\Users\junan\source\repos\Comision\Comision\obj\Debug\netcoreapp3.1\Comision.genruntimeconfig.cache

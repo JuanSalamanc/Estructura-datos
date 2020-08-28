@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.exe
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.deps.json
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.runtimeconfig.json
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.runtimeconfig.dev.json
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.dll
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.pdb
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.AssemblyInfo.cs
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.dll
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.pdb
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.genruntimeconfig.cache

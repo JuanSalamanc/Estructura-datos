@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\bin\Debug\netcoreapp3.1\NuMayMen.exe
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\bin\Debug\netcoreapp3.1\NuMayMen.deps.json
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\bin\Debug\netcoreapp3.1\NuMayMen.runtimeconfig.json
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\bin\Debug\netcoreapp3.1\NuMayMen.runtimeconfig.dev.json
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\bin\Debug\netcoreapp3.1\NuMayMen.dll
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\bin\Debug\netcoreapp3.1\NuMayMen.pdb
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\obj\Debug\netcoreapp3.1\NuMayMen.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\obj\Debug\netcoreapp3.1\NuMayMen.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\obj\Debug\netcoreapp3.1\NuMayMen.AssemblyInfo.cs
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\obj\Debug\netcoreapp3.1\NuMayMen.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\obj\Debug\netcoreapp3.1\NuMayMen.dll
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\obj\Debug\netcoreapp3.1\NuMayMen.pdb
+C:\Users\junan\source\repos\NuMayMen\NuMayMen\obj\Debug\netcoreapp3.1\NuMayMen.genruntimeconfig.cache
