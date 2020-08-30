@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.exe
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.deps.json
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.json
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.dev.json
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.dll
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.pdb
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfo.cs
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.dll
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.pdb
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.genruntimeconfig.cache
